@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Mewboss</name>
+    <directory>mewboss</directory>
+    <id>3826388609</id>
+    <description>把 Mewgenics 的 BOSS 移植到以撒里。
+
+包含：
+  * Zodiac（501）—— 蓄力狙击型 BOSS，地下室
+  * Man in the Moon（502）+ Moon Hand（503）—— 减伤光环、可推石头随从
+  * Gambit（506）+ 六面骰（507）—— 骰子驱动六种形态，地下室
+
+安装 StageAPI（可选）后 BOSS 会自然出现在对应楼层的 BOSS 房；
+没有 StageAPI 时使用运行时替换。
+控制台仍可用 spawn 501/502/506 单独生成。</description>
+    <version>1.0.1</version>
+    <visibility>Private</visibility>
+    <tag id="Lua"/>
+    <tag id="Bosses"/>
+    <tag id="Sound Effects"/>
+    <tag id="Music"/>
+</metadata>

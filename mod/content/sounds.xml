@@ -1,0 +1,87 @@
+<sounds root="sfx/">
+
+    <sound name="Zodiac Shoot">
+        <sample weight="1" path="zodiac/zodiac_shoot.wav" />
+    </sound>
+
+    <sound name="Zodiac Shoot Vocal">
+        <sample weight="1" path="zodiac/zodiac_shoot_vocal_01.wav" />
+        <sample weight="1" path="zodiac/zodiac_shoot_vocal_02.wav" />
+        <sample weight="1" path="zodiac/zodiac_shoot_vocal_03.wav" />
+        <sample weight="1" path="zodiac/zodiac_shoot_vocal_04.wav" />
+        <sample weight="1" path="zodiac/zodiac_shoot_vocal_05.wav" />
+    </sound>
+
+    <sound name="Zodiac Empty">
+        <sample weight="1" path="zodiac/zodiac_empty.wav" />
+    </sound>
+
+    <sound name="Zodiac Reload">
+        <sample weight="1" path="zodiac/zodiac_reload.wav" />
+    </sound>
+
+    <sound name="Zodiac Dying">
+        <sample weight="1" path="zodiac/zodiac_dying.wav" />
+    </sound>
+
+    <sound name="Zodiac Dying Vocal">
+        <sample weight="1" path="zodiac/zodiac_dying_vocal_01.wav" />
+        <sample weight="1" path="zodiac/zodiac_dying_vocal_02.wav" />
+        <sample weight="1" path="zodiac/zodiac_dying_vocal_03.wav" />
+        <sample weight="1" path="zodiac/zodiac_dying_vocal_04.wav" />
+    </sound>
+
+    <sound name="Moon Hand Dash">
+        <sample weight="1" path="moon_man/moonhand_dashstart.wav" />
+        <sample weight="1" path="moon_man/moonhand_dashstart_v2.wav" />
+    </sound>
+
+    <sound name="Moon Aura Uncrack">
+        <sample weight="1" path="moon_man/moonhead_uncrack.wav" />
+    </sound>
+
+    <sound name="Moon Fire">
+        <sample weight="1" path="moon_man/moonhead_fire_01.wav" />
+        <sample weight="1" path="moon_man/moonhead_fire_02.wav" />
+        <sample weight="1" path="moon_man/moonhead_fire_03.wav" />
+    </sound>
+
+    <sound name="Gambit Confused">
+        <sample weight="1" path="gambit/gambit_confused.wav" />
+        <sample weight="1" path="gambit/gambit_confused_vox_01.wav" />
+        <sample weight="1" path="gambit/gambit_confused_vox_02.wav" />
+        <sample weight="1" path="gambit/gambit_confused_vox_03.wav" />
+    </sound>
+
+    <sound name="Gambit Reroll">
+        <sample weight="1" path="gambit/gambit_confused_shake.wav" />
+        <sample weight="1" path="gambit/gambit_confused_shake_vox_01.wav" />
+        <sample weight="1" path="gambit/gambit_confused_shake_vox_02.wav" />
+        <sample weight="1" path="gambit/gambit_confused_shake_vox_03.wav" />
+    </sound>
+
+    <sound name="Gambit Poop">
+        <sample weight="1" path="gambit/gambit_poop.wav" />
+    </sound>
+
+    <sound name="Gambit Jump">
+        <sample weight="1" path="gambit/gambit_jump.wav" />
+        <sample weight="1" path="gambit/gambit_jump_vox_01.wav" />
+        <sample weight="1" path="gambit/gambit_jump_vox_02.wav" />
+        <sample weight="1" path="gambit/gambit_jump_vox_03.wav" />
+        <sample weight="1" path="gambit/gambit_jump_vox_04.wav" />
+    </sound>
+
+    <sound name="Gambit Power">
+        <sample weight="1" path="gambit/gambit_power.wav" />
+    </sound>
+
+    <sound name="Gambit Dying">
+        <sample weight="1" path="gambit/gambit_dying.wav" />
+        <sample weight="1" path="gambit/gambit_dying_vox_01.wav" />
+        <sample weight="1" path="gambit/gambit_dying_vox_02.wav" />
+        <sample weight="1" path="gambit/gambit_dying_vox_03.wav" />
+        <sample weight="1" path="gambit/gambit_dying_vox_04.wav" />
+    </sound>
+
+</sounds>

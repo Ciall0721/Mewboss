@@ -1,0 +1,7 @@
+<data>
+    <entity Group="(Mewboss)" ID="501" Variant="0" Subtype="0" Image="Entities/501.0.0 - Zodiac.png" Kind="Bosses" Name="Zodiac" />
+    <entity Group="(Mewboss)" ID="502" Variant="0" Subtype="0" Image="Entities/502.0.0 - Man in the Moon.png" Kind="Bosses" Name="Man in the Moon" />
+    <entity Group="(Mewboss)" ID="503" Variant="0" Subtype="0" Image="Entities/503.0.0 - Moon Hand.png" Kind="Enemies" Name="Moon Hand" />
+    <entity Group="(Mewboss)" ID="506" Variant="0" Subtype="0" Image="Entities/506.0.0 - Gambit.png" Kind="Bosses" Name="Gambit" />
+    <entity Group="(Mewboss)" ID="507" Variant="0" Subtype="0" Image="Entities/507.0.0 - Gambit Die.png" Kind="Props" Name="Gambit Die" />
+</data>

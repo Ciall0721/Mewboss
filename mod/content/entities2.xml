@@ -1,0 +1,88 @@
+<entities anm2root="gfx/" version="5">
+
+    <entity name="Zodiac"
+            id="501" variant="0" subtype="0"
+            boss="1" bossID="501"
+            anm2path="mewboss/501.000_zodiac.anm2"
+            baseHP="200" stageHP="0" shieldStrength="0"
+            collisionDamage="1" collisionMass="100" collisionRadius="13"
+            numGridCollisionPoints="12" friction="1"
+            gridCollision="ground" shadowSize="11"
+            portrait="140" champion="0"
+            reroll="false" shutdoors="true"
+            tags="nodelirium noreroll">
+        <bestiary anim="Idle" transform="0,0,1"/>
+        <gibs amount="10" blood="1" bone="0" eye="1" gut="1" large="0"/>
+    </entity>
+
+    <entity name="Man in the Moon"
+            id="502" variant="0" subtype="0"
+            boss="1" bossID="502"
+            anm2path="mewboss/502.000_man in the moon.anm2"
+            baseHP="400" stageHP="0" shieldStrength="0"
+            collisionDamage="1" collisionMass="10000" collisionRadius="65"
+            collisionRadiusYMulti="0.715" numGridCollisionPoints="12"
+            friction="1" gridCollision="none" shadowSize="60"
+            portrait="141" champion="0"
+            reroll="false" shutdoors="true"
+            tags="nodelirium noreroll">
+        <bestiary anim="Idle" transform="0,0,1"/>
+        <gibs amount="14" blood="1" bone="0" eye="1" gut="1" large="1"/>
+    </entity>
+
+    <entity name="Moon Hand"
+            id="503" variant="0" subtype="0"
+            boss="0"
+            anm2path="mewboss/503.000_moon hand.anm2"
+            baseHP="20" stageHP="0"
+            collisionDamage="0" collisionMass="6" collisionRadius="14"
+            numGridCollisionPoints="12" friction="1"
+            shadowSize="16"
+            portrait="149" champion="0"
+            reroll="false" shutdoors="false"
+            tags="nodelirium noreroll">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0"/>
+    </entity>
+
+    <entity name="Gambit"
+            id="506" variant="0" subtype="0"
+            boss="1" bossID="506"
+            anm2path="mewboss/506.000_gambit.anm2"
+            baseHP="300" stageHP="0" shieldStrength="0"
+            collisionDamage="1" collisionMass="1000" collisionRadius="15"
+            numGridCollisionPoints="12" friction="1"
+            gridCollision="ground" shadowSize="14"
+            portrait="143" champion="0"
+            reroll="false" shutdoors="true"
+            tags="nodelirium noreroll">
+        <bestiary anim="Idle" transform="0,0,1"/>
+        <gibs amount="10" blood="1" bone="0" eye="1" gut="1" large="0"/>
+    </entity>
+
+    <entity name="Gambit Die"
+            id="507" variant="0" subtype="0"
+            anm2path="mewboss/507.000_gambit die.anm2"
+            baseHP="1000" stageHP="0"
+            collisionDamage="0" collisionMass="2" collisionRadius="10"
+            numGridCollisionPoints="12" friction="1" gridCollision="ground"
+            shadowSize="8" portrait="0" champion="0"
+            reroll="false" shutdoors="false"
+            tags="nodelirium noreroll">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0"/>
+    </entity>
+
+    <entity name="Zodiac Bullet"
+            id="9" variant="3900" subtype="0"
+            anm2path="mewboss/009.3900_zodiac bullet.anm2"
+            baseHP="0" collisionRadius="5" collisionMass="8"
+            numGridCollisionPoints="0" friction="1"
+            shadowSize="0" reroll="false" tags="noreroll" />
+
+    <entity name="Moon Stone"
+            id="9" variant="3901" subtype="0"
+            anm2path="mewboss/009.3901_moon stone.anm2"
+            baseHP="0" collisionRadius="7" collisionMass="8"
+            numGridCollisionPoints="0" friction="1"
+            shadowSize="0" reroll="false" tags="noreroll" />
+
+</entities>

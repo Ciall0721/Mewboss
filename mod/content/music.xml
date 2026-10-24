@@ -1,0 +1,13 @@
+<music root="music/">
+
+    <track loop="true"
+           path="zodiac/desert_boss.ogg"
+           name="Zodiac Desert Boss"
+           id="3900" />
+
+    <track loop="true"
+           path="moon/moon_boss.ogg"
+           name="Man in the Moon"
+           id="3901" />
+
+</music>
