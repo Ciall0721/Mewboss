@@ -1,14 +1,10 @@
 __pycache__/
 *.pyc
-# 解包出来的 Mewgenics 数据（2.1 MB，可随时用 gpak_extract.py 重新生成）
 raw/
 
-# 整理时移出的未使用文件（保留原路径，可随时恢复）
 trash/
 
-# 打包产物
 dist/
 
-.workbuddy/
 source/
 tools/bin/
